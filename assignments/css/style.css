@@ -32,3 +32,17 @@ font-size: 1.25rem;
     gap: 1.5rem;
     grid-template-columns: repeat(12, 1fr);
 }
+
+.container > * {
+    grid-column: span 12;
+}
+
+/* Desktop Layout */
+@media screen and (min-width: 40rem) {
+    .col-span-8 {
+        grid-column: span 8;
+    }
+    .col-span-4 {
+        grid-column: span 4;
+    }
+}
