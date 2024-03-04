@@ -8,10 +8,7 @@ body {
     margin: 0 10%; 
     background-image: url(../images/geometric-leaves.png);
 }
-.container {
 
-background-color: white;
-}
 header{
     background-color: #9abcf8;
     color: white;
@@ -25,4 +22,10 @@ font-size: 1.5em;
 }
 h3 {
 font-size: 1.25rem;
+}
+
+
+/************* Layout *******************
+.container {
+background-color: white;
 }
