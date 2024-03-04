@@ -5,7 +5,7 @@
 
 
 body {
-    margin: 0 10%; 
+    margin: 0; 
     background-image: url(../images/geometric-leaves.png);
 }
 
@@ -31,6 +31,8 @@ font-size: 1.25rem;
     display: grid;
     gap: 1.5rem;
     grid-template-columns: repeat(12, 1fr);
+    margin: 0 auto;
+    width: min(95%, 75rem);
 }
 
 .container > * {
