@@ -23,7 +23,14 @@ font-size: 1.5em;
 h3 {
 font-size: 1.25rem;
 }
-
+a:link, a:visited {
+    color: #9abcf8;
+    text-decoration: none;
+}
+a:hover {
+    color: #6d8bbd;
+    text-decoration: underline;
+}
 
 /************* Layout *******************/
 .container {
@@ -47,4 +54,10 @@ font-size: 1.25rem;
     .col-span-4 {
         grid-column: span 4;
     }
+}
+
+/************* Components *******************/
+.button {
+    color: white;
+    background-color: #9abcf8;
 }
