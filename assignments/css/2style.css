@@ -11,7 +11,7 @@ body {
 }
 
 header {
-    background-color: #f7f7f7;
+    background-color: white;
     padding: 20px 0;
 }
 
@@ -50,7 +50,7 @@ nav ul li a {
 .btn {
     display: inline-block;
     background-color: #ff8000;
-    color: #fff;
+    color: white;
     padding: 20px 40px; 
     border-radius: 50px; 
     text-decoration: none;
@@ -102,7 +102,7 @@ nav ul li a {
 
 .choose-meal-kit-btn:hover {
     background-color: #ff8000;
-    color: #fff;
+    color: white;
 }
 
 header h1,
@@ -151,7 +151,7 @@ nav ul li a {
 
 .choose-meal-kit-btn:hover {
     background-color: #ff8000;
-    color: #fff;
+    color: white;
 }
 .meal-card h3,
 .meal-card p {
