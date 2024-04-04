@@ -1,4 +1,4 @@
-/* Global styles */
+
 body {
     font-family: Arial, sans-serif;
     margin: 0;
@@ -51,15 +51,15 @@ nav ul li a {
     display: inline-block;
     background-color: #ff8000;
     color: #fff;
-    padding: 20px 40px; /* Increased padding */
-    border-radius: 50px; /* Makes the button round */
+    padding: 20px 40px; 
+    border-radius: 50px; 
     text-decoration: none;
     font-size: 18px;
     transition: background-color 0.3s;
 }
 
 .btn:hover {
-    background-color: #e67e00; /* Darken the button on hover */
+    background-color: #e67e00; 
 }
 
 .featured-meals {
@@ -109,7 +109,7 @@ header h1,
 nav ul li a {
     color: #5e2ca5;
 }
-/* Add this CSS to your existing styles.css file */
+
 
 .container {
     width: 80%;
