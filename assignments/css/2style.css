@@ -153,3 +153,12 @@ nav ul li a {
     background-color: #ff8000;
     color: #fff;
 }
+.meal-card h3,
+.meal-card p {
+    color: #5e2ca5;
+}
+
+.meal-card:nth-of-type(2) h3,
+.meal-card:nth-of-type(2) p {
+    color: #5e2ca5;
+}
