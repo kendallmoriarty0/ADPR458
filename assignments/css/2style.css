@@ -1,0 +1,91 @@
+/* Global styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+header {
+    background-color: #f7f7f7;
+    padding: 20px 0;
+}
+
+header h1 {
+    margin: 0;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #333;
+}
+
+.hero {
+    background-image: url('hero-background.jpg');
+    background-size: cover;
+    color: #fff;
+    padding: 100px 0;
+    text-align: center;
+}
+
+.hero h2 {
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+
+.btn {
+    display: inline-block;
+    background-color: #ff8000;
+    color: #fff;
+    padding: 20px 40px; /* Increased padding */
+    border-radius: 50px; /* Makes the button round */
+    text-decoration: none;
+    font-size: 18px;
+    transition: background-color 0.3s;
+}
+
+.btn:hover {
+    background-color: #e67e00; /* Darken the button on hover */
+}
+
+.featured-meals {
+    padding: 50px 0;
+}
+
+.featured-meals h2 {
+    text-align: center;
+}
+
+.meal-card {
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.how-it-works {
+    background-color: #f7f7f7;
+    padding: 50px 0;
+}
+
+.how-it-works h2 {
+    text-align: center;
+}
+
+.step {
+    text-align: center;
+    margin-bottom: 40px;
+}
