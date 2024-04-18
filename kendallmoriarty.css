@@ -57,13 +57,12 @@ nav ul li a {
 
 .image {
     width: 50%;
-    background-image: url(kendallmoriarty.JPG); /* Replace 'your-image-url.jpg' with your actual image URL */
-    background-size: cover;
+    background-image: url('kendallmoriarty.JPG'); 
 }
 
 .image {
     width: 50%;
-    background-image: url(kendallmoriarty.JPG); /* Replace 'your-image-url.jpg' with your actual image URL */
+    background-image: url('kendallmoriarty.JPG'); 
     background-size: cover;
 }
 
