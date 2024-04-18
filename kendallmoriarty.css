@@ -7,7 +7,7 @@ body {
 header {
     background-color: #fce4ec;
     color: #333;
-    padding: 20px;
+    padding: 30px;
 }
 
 .header-container {
@@ -37,7 +37,7 @@ nav ul li a {
     justify-content: center;
     background-color: #ff80ab;
     color: #333;
-    padding: 50px 0;
+    padding: 100px 0;
 }
 
 .content {
@@ -55,16 +55,6 @@ nav ul li a {
     font-style: italic;
 }
 
-.image {
-    width: 50%;
-    background-image: url('kendallmoriarty.png'); 
-}
-
-.image {
-    width: 50%;
-    background-image: url('kendallmoriarty.png'); 
-    background-size: cover;
-}
 
 .button {
     display: inline-block;
