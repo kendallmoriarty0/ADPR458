@@ -117,3 +117,24 @@ nav ul li a {
     color: #d647a779; 
 }
 
+.section {
+    background-color: #fce4ec; 
+    color: #333; 
+    padding: 20px;
+    margin-bottom: 30px; 
+    border-radius: 10px;
+    display: flex; 
+    flex-direction: column; 
+    align-items: center; 
+    text-align: center; 
+}
+
+.section h2 {
+    font-style: italic;
+    margin-bottom: 20px;
+}
+
+.section p {
+    margin-top: 10px;
+}
+
