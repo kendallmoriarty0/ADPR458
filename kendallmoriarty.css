@@ -86,6 +86,7 @@ nav ul li a {
     color: #333; 
     text-align: center;
     border-radius: 10px;
+    margin: 0 20px; 
 }
 
 .contact-box h2 {
@@ -108,4 +109,11 @@ nav ul li a {
 .contact-box ul li a {
     color: #333;
     text-decoration: none;
+    font-weight: bold; 
+    transition: color 0.3s; 
 }
+
+.contact-box ul li a:hover {
+    color: #d647a779; 
+}
+
